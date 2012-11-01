@@ -1,0 +1,2 @@
+Class-Path: .
+Main-class: MemeGenerator
